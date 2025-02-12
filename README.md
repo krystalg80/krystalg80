@@ -27,7 +27,7 @@ A scalable vacation rental platform with secure payment processing.
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/krystal-galdamez-83364a206/)
-- [Portfolio](www.krystalgaldamez.com)
+- [Portfolio](https://krystalgaldamez.com/)
 - 📧 krystalgaldamez@gmail.com
 
 ---
