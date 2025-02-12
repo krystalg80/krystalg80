@@ -22,7 +22,7 @@ Smart recipe management system with produce freshness tracking.
 - 🛠️ React.js, Node.js, Express.js, Flask, PostgreSQL, Python
 
 ### HOMEBNB - Vacation Rental Platform
-A scalable vacation rental platform with secure payment processing.
+A scalable vacation rental platform! Clone of AirBnB
 - 🛠️ React.js, Redux, Node.js, Express.js, PostgreSQL
 
 ## 📫 Let's Connect!
