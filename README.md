@@ -1,29 +1,30 @@
 # Hi there! I'm Krystal Galdamez 👋
 
-Driven by a childhood dream of becoming the next Steve Jobs, I'm a full-stack software developer who found my way back to my true passion after initially letting fear hold me back. With a strong foundation in business administration and intensive technical training, I create scalable web applications with seamless user experiences. My journey from overcoming self-doubt to embracing software development demonstrates my resilience and determination to tackle any challenge.
+Driven by a childhood dream of becoming the next Steve Jobs, I'm a Full Stack Software Engineer
+who found her way back to her true passion after letting fear hold her back — and never looked
+back since. I build scalable web and mobile applications with seamless user experiences, with a
+strong foundation in both business and engineering. Currently shipping production features as a
+**Founding Engineer** at two early-stage startups, spanning AI-powered platforms, microservice
+architectures, and cloud-deployed systems.
 
 ## 🛠️ Technologies & Tools
-- **Backend:** Node.js, Express.js, PostgreSQL, MySQL, SQLite, Firebase, MongoDB
-- **Languages:** JavaScript (ES6+), Python, HTML5, CSS3, SQL, TypeScript, Java
-- **Frontend:** React.js, Redux, Bootstrap, Responsive Design, Tailwind CSS
-- **Tools & Infrastructure:** Git/GitHub, Postman, JWT, OAuth, REST APIs
-- **Design:** Figma, Adobe XD, Sketch
-- **Deployment:** Render, Netlify, AWS, Vercel
+
+- **Languages:** JavaScript (ES6+), TypeScript, Python, SQL, HTML5, CSS3
+- **Frontend:** React.js, Next.js, Angular, Vue.js, Redux, Tailwind CSS, Bootstrap, Responsive Design
+- **Backend:** Node.js, Express.js, Flask, RESTful APIs, Microservices, JWT
+- **Databases & Cloud:** PostgreSQL, MySQL, MongoDB, Firebase/Firestore, AWS, Azure, Google Cloud, Vercel, Docker
+- **AI & ML:** GPT-4 Integration, Google Vision API, AWS Rekognition, Google Cloud NLP
+- **Tools:** Git/GitHub, Postman, Figma, Playwright, Jest, CI/CD, VS Code, Cursor
 
 ## 🚀 Featured Projects
 
-### CLARITY - Mental Wellness Platform
-A comprehensive platform promoting mental wellness through progress tracking and gamification.
-- 🛠️ React.js, Node.js, Express.js, PostgreSQL, JWT
-- 📱 Responsive dashboard with intuitive progress tracking
+### FAIR JOB — AI-Powered Hiring Platform
+An end-to-end AI-driven hiring platform with resume parsing, interview scoring, and identity verification.
+- 🛠️ Next.js, TypeScript, React, Firebase, GPT-4, AWS Rekognition, Google Vision API, WebRTC
 
-### FRESHLY - Recipe/Grocery Management
-Smart recipe management system with produce freshness tracking.
-- 🛠️ React.js, Node.js, Express.js, Flask, PostgreSQL, Python
-
-### HOMEBNB - Vacation Rental Platform
-A scalable vacation rental platform! Clone of AirBnB
-- 🛠️ React.js, Redux, Node.js, Express.js, PostgreSQL
+### CLARITY — Mental Wellness Platform 🍎 *Coming Soon to the Apple App Store*
+A comprehensive mental wellness app with progress tracking, gamification, and secure authentication.
+- 🛠️ React Native, Node.js, PostgreSQL, Firebase, JWT, Google Cloud NLP, Stripe
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/krystal-galdamez-83364a206/)
@@ -31,4 +32,5 @@ A scalable vacation rental platform! Clone of AirBnB
 - 📧 krystalgaldamez@gmail.com
 
 ---
-💡 *"The only way to do great work is to love what you do." - Steve Jobs*
+
+💡 *"The only way to do great work is to love what you do." — Steve Jobs*
