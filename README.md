@@ -26,7 +26,7 @@ An end-to-end AI-driven hiring platform with resume parsing, interview scoring, 
 A comprehensive mental wellness app with progress tracking, gamification, and secure authentication.
 - 🛠️ React Native, Node.js, PostgreSQL, Firebase, JWT, Google Cloud NLP, Stripe
 
-### CodeWhisper — AI Coding Interview Coach 🎤 *In Development*
+### CODEWHISPER — AI Coding Interview Coach 🎤 *In Development*
 A macOS desktop app that provides real-time AI coaching during coding interviews using screen capture and Claude AI.
 - 🛠️ Tauri, Rust, React, TypeScript, Claude AI, Supabase, Stripe
 
