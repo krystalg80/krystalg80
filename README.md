@@ -22,9 +22,21 @@ architectures, and cloud-deployed systems.
 An end-to-end AI-driven hiring platform with resume parsing, interview scoring, and identity verification.
 - 🛠️ Next.js, TypeScript, React, Firebase, GPT-4, AWS Rekognition, Google Vision API, WebRTC
 
-### CLARITY — Mental Wellness Platform 🍎 *Coming Soon to the Apple App Store*
-A comprehensive mental wellness app with progress tracking, gamification, and secure authentication.
-- 🛠️ React Native, Node.js, PostgreSQL, Firebase, JWT, Google Cloud NLP, Stripe
+### CLARITY — Mental Wellness Platform 🍎🤖 *Coming Soon to the Apple App Store & Google Play*
+A full-featured wellness companion app helping users build healthy habits through daily tracking, mindfulness, and gamified mental health support.
+
+**Features:**
+- 🧘 **Meditation Logging** — Track sessions, deep state achievements, and mindfulness streaks
+- 💪 **Workout Tracking** — Log daily exercise with progress visualization
+- 💧 **Water Intake Logging** — Monitor hydration against personalized daily goals
+- 🌟 **Daily Affirmations** — Personalized positive affirmations surfaced every day
+- 🎮 **Anxiety Monster Tamer** — Gamified anxiety relief featuring guided breathing (Worry Worm), progressive relaxation (Panic Bear), mindfulness exercises (Overthink Octopus), and breathwork (Doom Dragon)
+- 📓 **Journaling & Mood Tracking** — Note-taking with built-in sentiment analysis
+- 🏆 **Gamification & Streaks** — Points system, daily challenges, and achievement streaks
+- 🤖 **AI Wellness Analytics** — AI-powered insights and personalized recommendations
+- 💎 **Premium Subscription** — Stripe-powered premium tier with trial support
+
+- 🛠️ React, Vite PWA, Firebase/Firestore, Firebase Cloud Functions, Google Cloud NLP, Stripe
 
 ### CODEWHISPER — AI Coding Interview Coach 🎤 *In Development*
 A macOS desktop app that provides real-time AI coaching during coding interviews using screen capture and Claude AI.
