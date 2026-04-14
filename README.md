@@ -38,9 +38,30 @@ A full-featured wellness companion app helping users build healthy habits throug
 
 - 🛠️ React, Vite PWA, Firebase/Firestore, Firebase Cloud Functions, Google Cloud NLP, Stripe
 
-### CODEWHISPER — AI Coding Interview Coach 🎤 *In Development*
-A macOS desktop app that provides real-time AI coaching during coding interviews using screen capture and Claude AI.
-- 🛠️ Tauri, Rust, React, TypeScript, Claude AI, Supabase, Stripe
+ ### CODEWHISPER — AI Coding Interview Coach 🎤 *In Development*               
+  A macOS desktop app that acts as an always-on-top AI coaching overlay during  
+  coding interviews. It watches your screen in real time, understands the       
+  problem you're solving, and guides your thinking using the **Socratic method**
+   — it never just hands you the answer.                                        
+                  
+  **Features:**
+  - 🖥️  **Screen Capture + OCR** — Captures your screen and extracts problem text
+   locally via Tesseract                                                        
+  - 🤖 **Claude AI Coaching Engine** — Uses Claude Sonnet to ask guiding
+  questions, spot logical gaps, and nudge you toward the solution without       
+  spoiling it     
+  - 🎙️  **Audio Transcription** *(in progress)* — System audio loopback capture +
+   Whisper.cpp for voice-to-text coaching                                       
+  - 💬 **Session History** — SQLite-backed local storage of all past sessions
+  and messages                                                                  
+  - 🔐 **Freemium Model** — 3 free sessions, then license key activation via
+  Supabase + Stripe                                                             
+  - 🪟 **Always-On-Top Overlay** — Floats over your IDE so coaching stays
+  visible without switching windows                                             
+                  
+  **Tech Stack:**                                                               
+  - 🛠️  Tauri 2.0 (Rust + React/TypeScript), Tailwind CSS, Zustand, SQLite/SQLx,
+  Tesseract OCR, Whisper.cpp, Claude AI (Anthropic), Supabase, Stripe
 
 ## 📫 Let's Connect!
 - [LinkedIn](https://www.linkedin.com/in/krystal-galdamez-83364a206/)
