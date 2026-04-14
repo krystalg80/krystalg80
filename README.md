@@ -32,7 +32,8 @@
   scoring, and identity verification.                                           
   - 🛠️  Next.js, TypeScript, React, Firebase, GPT-4, AWS Rekognition, Google
   Vision API, WebRTC
-  **LIVE HERE: lvcfairjob.com**                                                        
+
+  - **LIVE HERE: lvcfairjob.com**                                                        
                   
   ### CLARITY — Mental Wellness Platform 🍎🤖 *Coming Soon to the Apple App     
   Store & Google Play*
