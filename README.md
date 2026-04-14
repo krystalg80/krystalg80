@@ -31,7 +31,8 @@
   An end-to-end AI-driven hiring platform with resume parsing, interview
   scoring, and identity verification.                                           
   - 🛠️  Next.js, TypeScript, React, Firebase, GPT-4, AWS Rekognition, Google
-  Vision API, WebRTC                                                            
+  Vision API, WebRTC
+  - lvcfairjob.com                                                           
                   
   ### CLARITY — Mental Wellness Platform 🍎🤖 *Coming Soon to the Apple App     
   Store & Google Play*
