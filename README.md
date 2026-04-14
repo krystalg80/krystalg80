@@ -27,7 +27,7 @@
                   
   ## 🚀 Featured Projects                                                       
                   
-  ### FAIR JOB — AI-Powered Hiring Platform                                     
+  ### FAIR JOB — AI-Powered Hiring Platform *BETA*                                   
   An end-to-end AI-driven hiring platform with resume parsing, interview
   scoring, and identity verification.                                           
   - 🛠️  Next.js, TypeScript, React, Firebase, GPT-4, AWS Rekognition, Google
