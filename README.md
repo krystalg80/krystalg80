@@ -1,14 +1,14 @@
  # Hi there! I'm Krystal Galdamez 👋
                                                                                 
   Driven by a childhood dream of becoming the next Steve Jobs, I'm a Full Stack 
-  Software Engineer                                                             
+  Software Engineer who leans more frontend                                                            
   who found her way back to her true passion after letting fear hold her back — 
   and never looked                                                              
   back since. I build scalable web and mobile applications with seamless user
   experiences, with a                                                           
   strong foundation in both business and engineering. Currently shipping
   production features as a                                                      
-  **Founding Engineer** at two early-stage startups, spanning AI-powered
+  **Founding Engineer** at one early-stage startups, spanning AI-powered
   platforms, microservice                                                       
   architectures, and cloud-deployed systems.
                                                                                 
